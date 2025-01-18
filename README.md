@@ -7,15 +7,12 @@ The **Education Management System** is a web application designed to streamline 
 ## Features
 
 - **Student Management**: Add, update, view, and delete student records.
-- **Course Management**: Manage course details and associate them with students and faculty.
-- **Faculty Management**: Keep track of faculty information.
-- **Dynamic Templates**: Responsive and interactive templates for a seamless user experience.
 
 ## Technologies Used
 
 - **Backend**: Flask (Python)
 - **Frontend**: HTML, CSS, Jinja2 Templates
-- **Database**: SQLite (or any preferred database)
+- **Database**: SQLite 
 
 ## Installation
 
@@ -58,7 +55,7 @@ The **Education Management System** is a web application designed to streamline 
 
 ## Screenshots
 
-(Add screenshots of the application interface here if available.)
+// (Add screenshots of the application interface here if available.)
 
 ## Contributing
 
