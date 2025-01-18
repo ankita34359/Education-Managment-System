@@ -55,7 +55,7 @@ The **Education Management System** is a web application designed to streamline 
 
 ## Screenshots
 
-// (Add screenshots of the application interface here if available.)
+(Add screenshots of the application interface here if available.)
 
 ## Contributing
 
